@@ -1,0 +1,4 @@
+repository "Project-Idle-VCS@CaveMonkeyUVCS@cloud"
+  path "/"
+    br "/main"
+    co "/main"
